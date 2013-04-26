@@ -22,7 +22,7 @@ import java.util.List;
 public class TesteImports {
 
 	public static void main(String[] args) {
-		ArrayList<Cliente> clientes = new ArrayList<>();
+		ArrayList<Cliente> clientes = new ArrayList<Cliente>();
 		
 		clientes.add(new Cliente("Claudio", "111"));
 		clientes.add(new Cliente("Mariana", "222"));
