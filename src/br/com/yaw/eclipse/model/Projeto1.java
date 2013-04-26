@@ -13,7 +13,7 @@ public class Projeto1 {
 	}
 	
 	
-	public void setDescricaoTesteModificação(String descricao) {
+	public void setDescricaoTesteModificacao(String descricao) {
 		this.descricao = descricao;
 	}
 		
