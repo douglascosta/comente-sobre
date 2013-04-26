@@ -12,4 +12,9 @@ public class Projeto1 {
 		this.descricao = descricao;
 	}
 	
+	
+	public void setDescricaoTesteModificação(String descricao) {
+		this.descricao = descricao;
+	}
+		
 }
